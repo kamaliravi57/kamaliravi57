@@ -101,11 +101,9 @@
   
   <!-- GitHub Streak Stats -->
 <div>
-  <!-- GitHub Streak Stats (Left) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaliravi57&theme=city_light&hide_border=false" align="left" alt="GitHub Streak Stats"/>
-
+  
   <!-- Top Languages Stats (Right) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaliravi57&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="right" alt="Top Languages Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaliravi57&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" alt="Top Languages Stats"/>
 </div>
 
 </div>
