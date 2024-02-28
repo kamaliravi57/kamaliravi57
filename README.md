@@ -19,11 +19,6 @@
 <!-- Fun Fact -->
 <p align="center">⚡ Fun fact: I think I am funny 😄</p>
 
-<!-- Social Media and Contact -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <!-- Add your social media links here -->
-</p>
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
