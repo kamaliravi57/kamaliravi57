@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url" alt="Profile Banner" width="100%">
+<img src="https://github.com/kamaliravi57/kamaliravi57/raw/main/PRofile.jpg" alt="Profile Banner" width="150" height="150" align="left">
 </p>
 
 <!-- Introduction -->
